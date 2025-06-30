@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.mdx": "mdx",
+    "cmath": "cpp"
+  },
+  "idf.pythonInstallPath": "/usr/bin/python"
+}
